@@ -1,7 +1,7 @@
 import React from 'react';
 import mern from '../assets/mern.png';
 import Keeper from '../assets/Keeper.png'
-import booking from '../assets/Booking.png'
+import booking from '../assets/Bnooking.png'
 
 const Projects = () => {
   return (
